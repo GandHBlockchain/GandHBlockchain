@@ -1,0 +1,16 @@
+{
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Kelvin Doe",
+    "gender": "male",
+    "email": "doekelvin@gmail.com",
+    "password": "YutMan_56",
+    "phone": "+254745344506",
+    "street": "Stadium Road",
+    "city": "Nanyuki",
+    "state": "Laikipia", 
+    "country": "Kenya",
+    "about": "Elit anim laborum ut aliqua cupidatat Lorem eu eu proident sint cillum minim reprehenderit. Velit et et velit nostrud anim. Esse sint id quis laborum labore ut sunt exercitation labore eu mollit dolore. Nisi anim do pariatur quis duis labore deserunt minim incididunt.\r\n",
+    "latitude": 65.155827,
+    "longitude": -160.861496
+  }
